@@ -1,0 +1,20 @@
+/*styles go here */
+
+.margin-top {
+  margin-top: 200px;
+}
+
+.mb-3 {
+  max-width: 590px;
+}
+
+.input-group>.input-group-append>.btn {
+  margin-left: 20px;
+}
+
+.flex-filters {
+  display: flex;
+  justify-content: space-between;
+  max-width: 290px;
+}
+
